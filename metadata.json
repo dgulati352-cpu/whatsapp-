@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Replica",
+  "description": "A real-time messaging application inspired by WhatsApp, built with React and Firebase.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
